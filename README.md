@@ -8,6 +8,8 @@
 - @notpixel / @notpx_bot (Not Pixel)
 - @Binance_Moonbix_bot (Binance Moonbix bot)
 - @catizenbot (Catizen)
+- @bums / @bums_ton_bot (Bums)
+- @qlyukerbot (Клюкер)
 - @addexdrop_bot (Addex)
 - @addickted_bot (DICK GROWTH)
 - @Banana_traffbot (Ads_banana)
