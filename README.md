@@ -4,13 +4,18 @@
 
 ## List of supported Mini Apps:
 
-- @hamster_kombat_bot (Hamster Kombat)  
+- @hamster_kombat_bot (Hamster Kombat)
+- @Agent301Bot () 
 - @notpixel / @notpx_bot (Not Pixel)
 - @Binance_Moonbix_bot (Binance Moonbix bot)
 - @catizenbot (Catizen)
 - @bums / @bums_ton_bot (Bums)
+- TON Station APP (@tonstationgames_bot)
 - @fabrika (Friends Factory)
 - @qlyukerbot (Клюкер)
+- Memes Lab (@MemesLabBot)
+- DUCKS 🦆 (@duckscoop_bot)
+- Monkey (@monkeycost_bot)
 - @addexdrop_bot (Addex)
 - @addickted_bot (DICK GROWTH)
 - @Banana_traffbot (Ads_banana)
