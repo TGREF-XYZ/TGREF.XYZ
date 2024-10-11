@@ -5,7 +5,7 @@
 ## List of supported Mini Apps:
 
 - @hamster_kombat_bot (Hamster Kombat)
-- @Agent301Bot () 
+- @Agent301Bot (Agent 301) 
 - @notpixel / @notpx_bot (Not Pixel)
 - @Binance_Moonbix_bot (Binance Moonbix bot)
 - @catizenbot (Catizen)
