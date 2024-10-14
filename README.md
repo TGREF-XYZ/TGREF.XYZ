@@ -9,7 +9,7 @@
 - @notpixel / @notpx_bot (Not Pixel)
 - @Binance_Moonbix_bot (Binance Moonbix bot)
 - @catizenbot (Catizen)
-- Cats&Dogs Referrals (@catsdogs_game_bot)
+- @catsdogs_game_bo (Cats&Dogs Referrals)
 - @bums / @bums_ton_bot (Bums)
 - TON Station APP (@tonstationgames_bot)
 - @fabrika (Friends Factory)
