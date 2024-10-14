@@ -22,6 +22,7 @@
 - @Banana_traffbot (Ads_banana)
 - @BullApp_bot (Bull Run - Mine Bull)
 - @Fuck_Morgen_bot (Fuck Morgen Clicker)
+- Captain Tsubasa -RIVALS- on TG (@TsubasaRivalsBot)
 - @fueljetton_bot (Fuel Mining)
 - @Holders_Taxi_Bot (TAXI BOT)
 - @memefi_coin_bot (MemeFi Coin)
