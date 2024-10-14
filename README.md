@@ -11,7 +11,7 @@
 - @catizenbot (Catizen)
 - @catsdogs_game_bo (Cats&Dogs Referrals)
 - @bums / @bums_ton_bot (Bums)
-- TON Station APP (@tonstationgames_bot)
+- @tonstationgames_bot (TON Station APP)
 - @fabrika (Friends Factory)
 - @qlyukerbot (Клюкер)
 - Memes Lab (@MemesLabBot)
