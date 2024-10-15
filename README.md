@@ -2,6 +2,15 @@
 
 # [**TGREF.XYZ**](https://tgref.xyz) is the first platform to buy referrals for popular Telegram bots, Games, and Mini apps.
 
+## Active and Real Referrals Provider (24/7/365 farm):
+How does it work? 🤔 It’s very simple!
+
+Our referral joins a game through your link and farms 24/7 as much as possible.
+
+You keep 100% of the referral rewards, with 0% risk to your account.
+
+Supported games right now: Blum, X Empire, Memefi, Not Pixel, Ton Station APP, OKX Racer, Major
+
 ## List of supported Mini Apps:
 
 - @hamster_kombat_bot (Hamster Kombat)
