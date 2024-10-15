@@ -11,7 +11,7 @@ You keep 100% of the referral rewards, with 0% risk to your account.
 
 Supported bots right now: Blum, X Empire, Memefi, Not Pixel, Ton Station APP, OKX Racer, Major
 
-## List of supported Mini Apps:
+## List of supported Mini Apps to increase referrals:
 
 - @hamster_kombat_bot (Hamster Kombat)
 - @Agent301Bot (Agent 301) 
