@@ -9,7 +9,7 @@ Our referral joins a game through your link and farms 24/7 as much as possible.
 
 You keep 100% of the referral rewards, with 0% risk to your account.
 
-Supported games right now: Blum, X Empire, Memefi, Not Pixel, Ton Station APP, OKX Racer, Major
+Supported bots right now: Blum, X Empire, Memefi, Not Pixel, Ton Station APP, OKX Racer, Major
 
 ## List of supported Mini Apps:
 
