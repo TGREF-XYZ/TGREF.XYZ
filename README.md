@@ -25,7 +25,8 @@ Supported bots right now: Blum, X Empire, Memefi, Not Pixel, Ton Station APP, OK
 - @bits / @BitsTonboxBot  (Bits)
 - Reality Rush Referrals (@realityrush_bot)
 - @tonstationgames_bot (TON Station APP)
-- @fabrika (Friends Factory)
+- @fabrika (Friends Factory)\
+- Rating Referrals (@rating)
 - @qlyukerbot (Клюкер)
 - Memes Lab (@MemesLabBot)
 - DUCKS 🦆 (@duckscoop_bot)
