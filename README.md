@@ -9,13 +9,15 @@ Our referral joins a game through your link and farms 24/7 as much as possible.
 
 You keep 100% of the referral rewards, with 0% risk to your account.
 
-Supported bots right now: Blum, X Empire, Memefi, Not Pixel, Ton Station APP, OKX Racer, Major, PAWSOG, Electra
+Supported bots right now: Bombie, Blum, X Empire, Memefi, Not Pixel, Ton Station APP, OKX Racer, Major, PAWSOG, Electra
 
 ## List of supported Mini Apps to increase referrals:
 
 - @hamster_kombat_bot (Hamster Kombat)
-- @Agent301Bot (Agent 301) 
+- @Agent301Bot (Agent 301)
+- Tiny Verse (tverse / TVerseAppBot)
 - @notpixel / @notpx_bot (Not Pixel)
+- Boinkers (boinkers)
 - @Binance_Moonbix_bot (Binance Moonbix bot)
 - @catizenbot (Catizen)
 - @PAWSOG_bot (PAWS)
