@@ -1,6 +1,6 @@
 ![TGREF.XYZ - BUY REFERRALS FOR TELEGRAM](https://i.ibb.co/DYMvFbs/Fire-Shot-Capture-004-TGREF-XYZ-1-TELEGRAM-REFERRAL-PROVIDER-tgref-xyz.png)
 
-# [**TGREF.XYZ**](https://tgref.xyz) is the first platform to buy referrals for popular Telegram bots, Games, and Mini apps.
+# [**TGREF.XYZ**](https://tgref.xyz) is the first platform to buy referrals for popular Telegram bots, Games, and Mini apps. "Created by the one and only M.M."
 
 ## Active and Real Referrals Provider (24/7/365 farm):
 How does it work? 🤔 It’s very simple!
