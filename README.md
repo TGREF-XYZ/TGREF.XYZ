@@ -1,50 +1,18 @@
-![TGREF.XYZ - BUY REFERRALS FOR TELEGRAM](https://i.ibb.co/DYMvFbs/Fire-Shot-Capture-004-TGREF-XYZ-1-TELEGRAM-REFERRAL-PROVIDER-tgref-xyz.png)
+![TGREF.XYZ - BUY REFERRALS FOR TELEGRAM](https://raw.githubusercontent.com/TGREF-XYZ/TGREF.XYZ/refs/heads/test/images/tgref-main.png)
 
-# [**TGREF.XYZ**](https://tgref.xyz) is the first platform to buy referrals for popular Telegram bots, Games, and Mini apps. "Created by the one and only M.M."
+# [**TGREF.XYZ**](https://tgref.xyz) is the first platform to buy referrals for popular Telegram bots, Games, and Mini apps.
 
-## Active and Real Referrals Provider (24/7/365 farm):
-How does it work? 🤔 It’s very simple!
+## List of supported Mini Apps:
 
-Our referral joins a game through your link and farms 24/7 as much as possible.
-
-You keep 100% of the referral rewards, with 0% risk to your account.
-
-Supported bots right now: Bombie, Blum, X Empire, Memefi, Not Pixel, Ton Station APP, OKX Racer, Major, PAWSOG, Electra
-
-## List of supported Mini Apps to increase referrals:
-
-- @hamster_kombat_bot (Hamster Kombat)
-- @pengu_clash_bot (Pengu Clash)
-- @Agent301Bot (Agent 301)
-- Tiny Verse (tverse / TVerseAppBot)
+- @hamster_kombat_bot (Hamster Kombat)  
 - @notpixel / @notpx_bot (Not Pixel)
-- "Boinkers (boinkers)
 - @Binance_Moonbix_bot (Binance Moonbix bot)
 - @catizenbot (Catizen)
-- Zoo (@zoo_story_bot)
-- @PAWSOG_bot (PAWS)
-- @catsdogs_game_bo (Cats&Dogs Referrals)
-- @Pandas_HouseBot (Pandas 🐼)
-- @bums / @bums_ton_bot (Bums)
-- @booms / @booms_io_bot (BOOMS)
-- @bits / @BitsTonboxBot  (Bits)
-- Reality Rush Referrals (@realityrush_bot)
-- @tonstationgames_bot (TON Station APP)
-- @fabrika (Friends Factory)\
-- Rating Referrals (@rating)
-- @qlyukerbot (Клюкер)
-- Memes Lab (@MemesLabBot)
-- DUCKS 🦆 (@duckscoop_bot)
-- Monkey (@monkeycost_bot)
 - @addexdrop_bot (Addex)
-- @EggDrop_GombleBot (EggDrop)
 - @addickted_bot (DICK GROWTH)
 - @Banana_traffbot (Ads_banana)
-- @coub (Coub)
 - @BullApp_bot (Bull Run - Mine Bull)
-- WONTON Referrals (@WontonOrgBot)
 - @Fuck_Morgen_bot (Fuck Morgen Clicker)
-- Captain Tsubasa -RIVALS- on TG (@TsubasaRivalsBot)
 - @fueljetton_bot (Fuel Mining)
 - @Holders_Taxi_Bot (TAXI BOT)
 - @memefi_coin_bot (MemeFi Coin)
@@ -142,5 +110,3 @@ Supported bots right now: Bombie, Blum, X Empire, Memefi, Not Pixel, Ton Station
 
 
 ### And many more at [TGREF.XYZ](https://tgref.xyz)
-
-
