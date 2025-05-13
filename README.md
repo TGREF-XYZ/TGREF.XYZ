@@ -1,4 +1,4 @@
-![TGREF.XYZ - BUY REFERRALS FOR TELEGRAM](https://i.ibb.co/DYMvFbs/Fire-Shot-Capture-004-TGREF-XYZ-1-TELEGRAM-REFERRAL-PROVIDER-tgref-xyz.png)
+![TGREF.XYZ - BUY REFERRALS FOR TELEGRAM]((https://raw.githubusercontent.com/TGREF-XYZ/TGREF.XYZ/refs/heads/test/images/tgref-main.png)
 
 # [**TGREF.XYZ**](https://tgref.xyz) is the first platform to buy referrals for popular Telegram bots, Games, and Mini apps.
 
