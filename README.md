@@ -14,6 +14,7 @@ Supported bots right now: Bombie, Blum, X Empire, Memefi, Not Pixel, Ton Station
 ## List of supported Mini Apps to increase referrals:
 
 - @hamster_kombat_bot (Hamster Kombat)
+- @pengu_clash_bot (Pengu Clash)
 - @Agent301Bot (Agent 301)
 - Tiny Verse (tverse / TVerseAppBot)
 - @notpixel / @notpx_bot (Not Pixel)
