@@ -1157,7 +1157,7 @@ a[data-sx-check-external][href]:not(:where(
             .max-h-80 {
                 max-height: calc(var(--spacing)*80)
             }
-            .max-h-\[calc\(100vh-\(--spacing\(24\)\)\)\] {
+            .max-h-\[calc\(100vh-\(--spacing\(24\)\)\] {
                 max-height: calc(100vh - (calc(var(--spacing)*24)))
             }
             .min-h-10 {
@@ -1790,45 +1790,6 @@ a[data-sx-check-external][href]:not(:where(
             .from-white\/30 {
                 --tw-gradient-from: color-mix(in oklab, var(--color-white)30%, transparent);
                 --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from)var(--tw-gradient-from-position), var(--tw-gradient-to)var(--tw-gradient-to-position))
-            }
-            .from-0\% {
-                --tw-gradient-from-position: 0%
-            }
-            .from-40\% {
-                --tw-gradient-from-position: 40%
-            }
-            .from-50\% {
-                --tw-gradient-from-position: 50%
-            }
-            .via-gray-300 {
-                --tw-gradient-via: var(--color-gray-300);
-                --tw-gradient-via-stops: var(--tw-gradient-position), var(--tw-gradient-from)var(--tw-gradient-from-position), var(--tw-gradient-via)var(--tw-gradient-via-position), var(--tw-gradient-to)var(--tw-gradient-to-position);
-                --tw-gradient-stops: var(--tw-gradient-via-stops)
-            }
-            .via-gray-400\/50 {
-                --tw-gradient-via: color-mix(in oklab, var(--color-gray-400)50%, transparent);
-                --tw-gradient-via-stops: var(--tw-gradient-position), var(--tw-gradient-from)var(--tw-gradient-from-position), var(--tw-gradient-via)var(--tw-gradient-via-position), var(--tw-gradient-to)var(--tw-gradient-to-position);
-                --tw-gradient-stops: var(--tw-gradient-via-stops)
-            }
-            .via-gray-900\/15 {
-                --tw-gradient-via: color-mix(in oklab, var(--color-gray-900)15%, transparent);
-                --tw-gradient-via-stops: var(--tw-gradient-position), var(--tw-gradient-from)var(--tw-gradient-from-position), var(--tw-gradient-via)var(--tw-gradient-via-position), var(--tw-gradient-to)var(--tw-gradient-to-position);
-                --tw-gradient-stops: var(--tw-gradient-via-stops)
-            }
-            .via-primary {
-                --tw-gradient-via: hsl(var(--c-primary-hsl));
-                --tw-gradient-via-stops: var(--tw-gradient-position), var(--tw-gradient-from)var(--tw-gradient-from-position), var(--tw-gradient-via)var(--tw-gradient-via-position), var(--tw-gradient-to)var(--tw-gradient-to-position);
-                --tw-gradient-stops: var(--tw-gradient-via-stops)
-            }
-            .via-white\/20 {
-                --tw-gradient-via: color-mix(in oklab, var(--color-white)20%, transparent);
-                --tw-gradient-via-stops: var(--tw-gradient-position), var(--tw-gradient-from)var(--tw-gradient-from-position), var(--tw-gradient-via)var(--tw-gradient-via-position), var(--tw-gradient-to)var(--tw-gradient-to-position);
-                --tw-gradient-stops: var(--tw-gradient-via-stops)
-            }
-            .via-white\/30 {
-                --tw-gradient-via: color-mix(in oklab, var(--color-white)30%, transparent);
-                --tw-gradient-via-stops: var(--tw-gradient-position), var(--tw-gradient-from)var(--tw-gradient-from-position), var(--tw-gradient-via)var(--tw-gradient-via-position), var(--tw-gradient-to)var(--tw-gradient-to-position);
-                --tw-gradient-stops: var(--tw-gradient-via-stops)
             }
             .to-background {
                 --tw-gradient-to: var(--color-background);
@@ -3116,7 +3077,7 @@ a[data-sx-check-external][href]:not(:where(
                 .lg\:h-16 {
                     height: calc(var(--spacing)*16)
                 }
-                .lg\:h-\[calc\(100vh-\(--spacing\(16\)\)\)\] {
+                .lg\:h-\[calc\(100vh-\(--spacing\(16\)\)\] {
                     height: calc(100vh - (calc(var(--spacing)*16)))
                 }
                 .lg\:w-1\/8 {
@@ -3714,10 +3675,6 @@ a[data-sx-check-external][href]:not(:where(
             }
             .open>.\[\.open\>\&\]\:block {
                 display: block
-            }
-            .open>.\[\.open\>\&\]\:translate-x-0 {
-                --tw-translate-x: calc(var(--spacing)*0);
-                translate: var(--tw-translate-x)var(--tw-translate-y)
             }
             .open>.\[\.open\>\&\]\:rotate-180 {
                 rotate: 180deg
@@ -5581,8 +5538,8 @@ a[data-sx-check-external][href]:not(:where(
             z-index: 0;
             overflow: hidden
         }
-        .content .kg-header-card code,
-        .content .kg-signup-card code {
+        .content .kg-header-card.kg-v2 code,
+        .content .kg-card.kg-signup-card code {
             background-color: color-mix(in oklab, var(--color-gray-950)10%, transparent);
             border-color: color-mix(in oklab, var(--color-gray-950)10%, transparent);
             color: inherit
@@ -5652,15 +5609,6 @@ a[data-sx-check-external][href]:not(:where(
         .content .kg-signup-card[style*="background-color: rgb(240, 240, 240)"] {
             border: 1px solid color-mix(in oklab, var(--color-gray-950)5%, transparent);
             background-color: var(--color-gray-100) !important
-        }
-        .dark .content .kg-header-card.kg-v2[data-background-color=\#F0F0F0],
-        .dark .content .kg-signup-card[style*="background-color: rgb(240, 240, 240)"] {
-            border: 1px solid color-mix(in oklab, var(--color-gray-50)5%, transparent);
-            background-color: var(--color-gray-900) !important
-        }
-        .content .kg-header-card.kg-v2[data-background-color=\#F0F0F0] .kg-header-card-heading,
-        .content .kg-signup-card[style*="background-color: rgb(240, 240, 240)"] .kg-signup-card-heading {
-            color: var(--color-gray-900) !important
         }
         .dark .content .kg-header-card.kg-v2[data-background-color=\#F0F0F0] .kg-header-card-heading,
         .dark .content .kg-signup-card[style*="background-color: rgb(240, 240, 240)"] .kg-signup-card-heading {
@@ -7605,12 +7553,7 @@ a[data-sx-check-external][href]:not(:where(
             }
         }
         .landing-cta-bg {
-            background: radial-gradient(60% 30% at 50% 100%, hsl(var(--c-primary-hsl)/5%), #0000), radial-gradient(60% 25% at 50% 85%, hsl(var(--c-primary-hsl)/2%), #0000)
-        }
-        @media (width>=40rem) {
-            .landing-cta-bg {
-                background: radial-gradient(40% 30% at 50% 100%, hsl(var(--c-primary-hsl)/5%), #0000), radial-gradient(40% 50% at 50% 75%, hsl(var(--c-primary-hsl)/2%), #0000)
-            }
+            background: radial-gradient(40% 30% at 50% 100%, hsl(var(--c-primary-hsl)/5%), #0000), radial-gradient(40% 50% at 50% 75%, hsl(var(--c-primary-hsl)/2%), #0000)
         }
         .toc-link.node-name--H3:before {
             content: "";
@@ -8251,10 +8194,6 @@ a[data-sx-check-external][href]:not(:where(
             inherits: false
         }
         @property --tw-grayscale {
-            syntax: "*";
-            inherits: false
-        }
-        @property --tw-hue-rotate {
             syntax: "*";
             inherits: false
         }
@@ -10187,9 +10126,6 @@ a[data-sx-check-external][href]:not(:where(
             visibility: hidden
         }
         @media (max-width:640px) {
-            .kg-layout-split .kg-signup-card-content {
-                grid-template-columns: 1fr
-            }
             .kg-width-wide .kg-signup-card-text {
                 padding: min(6.4vmax, 120px) min(4vmax, 80px)
             }
